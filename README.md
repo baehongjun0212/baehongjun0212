@@ -9,13 +9,14 @@
 <br />
 <br />
 
-I am noob student developer.
-I like to develop many interesting things.✨
-Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.
-
-
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**I am noob student developer**.;
+I like to develop many interesting things.✨;
+Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.;
+
+
 <!--
 **baehongjun0212/baehongjun0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,11 +35,7 @@ Here are some ideas to get you started:
 
 ![baehongjun0212's github stats](https://github-readme-stats.vercel.app/api?username=baehongjun0212&show_icons=true)
 
-### Online Judge 💻
 
-* BOJ: [baehongjun0212](http://icpc.me/baehongjun0212)
-  * solvedac: [baehongjun0212](https://solved.ac/profile/baehongjun0212)
-  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=baehongjun0212)](https://solved.ac/baehongjun0212)
 
 ### Contacts 📫
