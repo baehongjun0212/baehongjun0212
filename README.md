@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Hong Jun!
-# Kinetic27&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
 <!--
 **baehongjun0212/baehongjun0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
