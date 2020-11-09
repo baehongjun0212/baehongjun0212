@@ -6,22 +6,13 @@
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br />
-<br />
-
-
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**I am noob student developer**.;
-I like to develop many interesting things.✨;
-Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.;
+  <div align=center>
+**I am noob student developer**.<br/> 
+I like to develop many interesting things.✨<br/> 
+Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.<br/> 
 
-
-<!--
-**baehongjun0212/baehongjun0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,10 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![baehongjun0212's github stats](https://github-readme-stats.vercel.app/api?username=baehongjun0212&show_icons=true)
-
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=baehongjun0212)](https://solved.ac/baehongjun0212)
+![Hong Jun's github stats](https://github-readme-stats.vercel.app/api?username=baehongjun0212&show_icons=true)
 
 ### Contacts 📫
 
@@ -44,7 +32,6 @@ Here are some ideas to get you started:
 * Instagram DM: @b.hhong
 * Email: baehongjun@kakao.com
 
-  <div align=center>
-  
+
   [![My GitHub Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/baehongjun0212/)](https://github.com/baehongjun0212/) 
   </div>
