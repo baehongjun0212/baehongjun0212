@@ -7,6 +7,8 @@
 </a>
 <br/>
 <br/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br/>
 
 **I am noob student developer**.<br/> 
 I like to develop many interesting things.✨<br/> 
@@ -23,5 +25,3 @@ Seeking software that can be useful and convenient for someone to use, and many 
 
   [![My GitHub Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/baehongjun0212/)](https://github.com/baehongjun0212/) 
   </div>
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
