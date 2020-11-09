@@ -13,13 +13,9 @@
 <!--
 **baehongjun0212/baehongjun0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>
-  <em>
-    저는 <b>뉴비</b> 학생 개발자입니다. 👨‍💻 <br>
-    다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
-    개발하기 재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
-  </em>  
-</p>
+I am noob student developer.
+I like to develop many interesting things.✨
+Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.
 
 
 Here are some ideas to get you started:
@@ -55,8 +51,5 @@ Here are some ideas to get you started:
 
   <div align=center>
   
-  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
+  [![My GitHub Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/baehongjun0212/)](https://github.com/baehongjun0212/) 
   </div>
-  
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
