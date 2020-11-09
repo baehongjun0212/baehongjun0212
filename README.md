@@ -35,6 +35,8 @@ Seeking software that can be useful and convenient for someone to use, and many 
 <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
 <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
 <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></code>
+<code><img title="R" height="25" <img width="512" alt="pngwing com" src="https://user-images.githubusercontent.com/55692618/98541965-8d5c1c80-22d3-11eb-9dcd-5aa0111132eb.png">
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
            
 
