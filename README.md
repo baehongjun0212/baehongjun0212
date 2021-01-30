@@ -11,14 +11,14 @@
 <br/>
 
 **I'm an endless developer.**<br/> 
-I like to develop many interesting things.✨<br/> 
+I like to develop many interesting things.<br/> 
 Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.
 <br/>
 
 ### My Portfolio
 * https://baehongjun0212.github.io/website/
 
-### Contacts 📫
+### Contacts 
 
 * Github Repo Issue
 * Instagram DM: @b.hhong
