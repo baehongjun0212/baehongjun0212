@@ -15,15 +15,6 @@ I like to develop many interesting things.✨<br/>
 Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.
 <br/>
 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
-
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Application Development.
-- 🤔 My interests are Application development, data analysis.
-- 💼 I am currently graduating from university and looking for a job!
-- 💬 Ask me about anything, I am happy to help.
-
 ### My Portfolio
 * https://baehongjun0212.github.io/website/
 
