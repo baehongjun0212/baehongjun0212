@@ -24,7 +24,6 @@ Seeking software that can be useful and convenient for someone to use, and many 
 ### Contacts 
 
 * Github Repo Issue
-* Instagram DM: @b.hhong
 * Email: baehongjun@kakao.com
 
 ### Languages and Tools:
