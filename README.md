@@ -15,6 +15,9 @@ I like to develop many interesting things.<br/>
 Seeking software that can be useful and convenient for someone to use, and many things to develop in a fun way.
 <br/>
 
+### My Blog
+* https://velog.io/@b_bhong
+* 
 ### My Portfolio
 * https://baehongjun0212.github.io/website/
 
