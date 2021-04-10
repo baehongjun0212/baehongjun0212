@@ -17,7 +17,7 @@ Seeking software that can be useful and convenient for someone to use, and many 
 
 ### My Blog
 * https://velog.io/@b_bhong
-* 
+
 ### My Portfolio
 * https://baehongjun0212.github.io/website/
 
